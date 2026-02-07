@@ -1,2 +1,2 @@
-# Demo1
-Just for practicing git
+# Git-Java-Practice
+Just for practicing git and java.
