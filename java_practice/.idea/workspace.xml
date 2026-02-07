@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="32de3e28-e679-4c44-821b-6539ba3a39c8" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/practice/AppTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/practice/App.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/practice/App.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/practice/AppTest.class" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 7
+}]]></component>
+  <component name="ProjectId" id="39LDgwIPbISLZ1q3oa1tWwEmV9C" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="sortKey" value="BY_TIME_DESCENDING" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.AddTwoValues.executor": "Run",
+    "JUnit.AddTwoValuesTest.testApply.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/TanishqShrivas/DummyProj/GitPracticeProjs/java_practice",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "reference.projectsettings.compiler.annotationProcessors"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="AddTwoValuesTest.testApply" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="java_practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.practice.functionalinterface.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.practice.functionalinterface" />
+      <option name="MAIN_CLASS_NAME" value="com.practice.functionalinterface.AddTwoValuesTest" />
+      <option name="METHOD_NAME" value="testApply(int,int,int)" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.AddTwoValuesTest.testApply" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="32de3e28-e679-4c44-821b-6539ba3a39c8" name="Changes" comment="" />
+      <created>1770466571997</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1770466571997</updated>
+    </task>
+    <servers />
+  </component>
+</project>
